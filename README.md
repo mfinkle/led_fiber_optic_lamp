@@ -4,6 +4,8 @@ Based on a design discovered on Instructables, this is the code for an LED fiber
 
 The initial version of the project uses a [Trinket M0](https://www.adafruit.com/product/3500) using CircuitPython.
 
+For more information about the LED fiber optic lamp, read the [blog post](https://starkravingfinkle.org/blog/2022/01/project-led-fiber-optic-lamp/).
+
 ## Dependencies
 
 The code requires:
